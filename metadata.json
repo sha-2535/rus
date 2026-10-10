@@ -1,0 +1,6 @@
+{
+  "name": "رزومه یار | ResumeYar",
+  "description": "دستیار هوشمند کاریابی و رزومه‌ساز مبتنی بر هوش مصنوعی با تحلیل آگهی‌ها، سنجش درصد تناسب و سفارشی‌سازی تخصصی رزومه و کاور لتر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

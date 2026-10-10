@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+redis
+python-dotenv
+bcrypt
+pyjwt
+httpx
+openai
+langgraph
+langchain-core
+python-multipart
+pypdf
+python-docx
